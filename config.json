@@ -1,0 +1,11 @@
+{
+  "dev": {
+    "baseUrl": "https://order.jdwetherspoon.com"
+  },
+  "staging": {
+    "baseUrl": ""
+  },
+  "preproduction": {
+    "baseUrl": ""
+  }
+}
